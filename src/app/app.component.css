@@ -1,0 +1,25 @@
+.mat-toolbar {
+    background: #bb8282;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 28px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.input {
+    border-bottom: solid 0.5px black;
+    padding: 10px;
+}
+
+
+
+.mat-expansion-panel {
+    background-color: cornsilk;
+    width: 1000px;
+}
+.list-users {
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
